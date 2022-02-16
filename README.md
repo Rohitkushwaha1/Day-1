@@ -1,5 +1,5 @@
 # Day-1 
-# Check my code file and the Exercise(EX) file
+# Check the code file and the Exercise(EX) file
 
 >1) I learned about printing function --> print("hello world")
 
